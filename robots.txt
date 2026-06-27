@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cpplearn.vercel.app/sitemap.xml

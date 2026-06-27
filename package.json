@@ -1,0 +1,16 @@
+{
+  "name": "cpplearn",
+  "version": "1.0.0",
+  "description": "CppLearn — Master C++ Step by Step. A full-featured educational platform with courses, lessons, a live compiler, quizzes, user accounts, and an admin dashboard.",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000 --no-clipboard",
+    "build": "echo 'Static site — no build step needed'"
+  },
+  "keywords": ["cpp", "c++", "learning", "education", "programming"],
+  "author": "CppLearn",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
